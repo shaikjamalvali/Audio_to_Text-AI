@@ -1,4 +1,6 @@
-# 🎙️ Record and Transcribe Audio Using Ctranslate2!
+# 🎙️ Record and Transcribe Audio Using Ctranslate2!\
+<img width="925" height="387" alt="image" src="https://github.com/user-attachments/assets/33e30816-7ee8-4450-9adb-153c06457a4a" />
+
 
 An efficient and user-friendly desktop application for converting speech to text, optimized for CPU performance.
 
