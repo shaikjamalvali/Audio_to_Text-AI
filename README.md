@@ -1,6 +1,7 @@
 # 🎙️ Record and Transcribe Audio Using Ctranslate2!\
 <img width="925" height="387" alt="image" src="https://github.com/user-attachments/assets/33e30816-7ee8-4450-9adb-153c06457a4a" />
 
+<img width="902" height="388" alt="image" src="https://github.com/user-attachments/assets/75eea3f2-12d1-4be7-b060-974da1c7391b" />
 
 An efficient and user-friendly desktop application for converting speech to text, optimized for CPU performance.
 
